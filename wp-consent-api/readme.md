@@ -8,9 +8,9 @@ WP Consent API
 
 **License**: GPL2
 
-**Tested up to**: 5.3
+**Tested up to**: 6.8
 
-**Requires PHP**: 5.6
+**Requires PHP**: 7.4
 
 **Stable tag**: 1.0.0
 
